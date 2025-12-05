@@ -122,7 +122,7 @@ export const products: Product[] = [
     name: 'CherryRB',
     title: '',
     shortDescription: '高效、易用的环形缓冲区，其原理与kfifo一致',
-    description: 'CherryDAP 是一个高效、易用的环形缓冲区，其原理与kfifo一致',
+    description: 'CherryRB 是一个高效、易用的环形缓冲区，其原理与kfifo一致',
     icon: '🔧',
     tags: ['ringbuffer'],
     features: [
